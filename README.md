@@ -46,4 +46,4 @@ I would appreciate if you clone this project and replace japanese code with your
 
 ## Author
 
-Kawase Tomohiro
+AA
